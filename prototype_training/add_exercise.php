@@ -31,6 +31,7 @@
 
 
                 <?php
+                    // Show active exercise
                     if ($exercise_id == $muscle_group['id']) {
                             $active = ' active';
                         }
