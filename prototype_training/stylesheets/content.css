@@ -1,0 +1,115 @@
+header{
+	margin-top: 10px;
+	width: 80%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header p{
+	margin-bottom: 100px;
+}
+
+body{
+	background-color: #f6f6f6;
+}
+
+article{
+	color: black;
+	margin-top: 170px;
+
+}
+
+.main-content{
+	background-color: #f6f6f6;
+	height: 100%;
+}
+
+.main{
+
+    background-color:rgba(0,0,0, .5);
+}
+
+.box0{
+	background-color: #ffffff;
+	padding-top: 1px;
+}
+
+.box1{
+	padding-top: 1px;
+	background-color: #e1e1e1;
+}
+
+.sidebar{
+	text-align: left;
+}
+
+.sidebar a{
+	text-decoration: none;
+	color: #000000;
+
+}
+
+.sidebar p{
+	margin-left: 15px;
+	padding-left: 0px;
+} 
+
+.sidebar img{
+	width: 100px;
+	height: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.sidebar h2{
+	padding-left: 40px;
+}
+
+.sidebar .row{
+	border-bottom: 1px solid #f6f6f6;
+	
+}
+
+.sidebar .row:hover{
+
+	background-color: #f6f6f6;
+}
+
+.workout{
+	background-color: ;
+}
+
+.workout h4{
+	padding: 20px 0px 20px 40px;
+}
+
+.new_work{
+	border-bottom: 2px solid #e1e1e1;
+	
+}
+
+.new_work a{
+	color: #f57c11;
+}
+
+.form{
+	padding:20px 0px 20px 40px;
+}
+
+.calender{
+	padding:20px 0px 20px 0px;
+}
+
+.test{
+	border-bottom: 1px solid black;
+}
+
+.t2{
+	float:right;
+	padding-right: 40px;
+}
+
+.t2 a{
+	color: #f57c11;
+}

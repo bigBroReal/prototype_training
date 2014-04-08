@@ -1,0 +1,113 @@
+html {  
+    height: 100%; 
+    width: 100%; 
+}
+
+body {
+    height: 100%; 
+    width: 100%; 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: #ffffff;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 55px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    font-weight: 900; 
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+}
+
+header span{
+    color: #ad3926;
+}
+
+article {
+    text-align: center;   
+}
+
+article p{
+    padding: 50px 0 50px 0;
+}
+
+#line{
+    width: 50%;
+    padding-top: 10px;
+    border-top: 2px solid #ffffff;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+nav {
+    text-align: center;
+}
+
+.maindiv{
+    float: left;
+    margin-top: 100px;
+    position: absolute;
+     left: 0; right: 0;
+    background-color:rgba(0,0,0, .5);
+}
+
+.start-menu1{
+    padding: 60px 0 100px 0;
+}
+
+.start-menu1 a{
+    display: block;
+    float: left;
+    height: 40px;
+    width: 180px;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 0;
+    border: 1px solid #ffffff;
+    border-radius:5px;
+}
+
+.start-menu-lg a {
+    margin-left: 100px;
+}
+
+.menu-lg{
+    margin-left: 100px;
+}
+
+.start-menu-sm a {
+    margin-left: 50px;
+}
+
+.start-menu-xs a {
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px 0;
+}
+
+footer{
+    clear: both;
+    bottom: 0;
+
+}
+
+footer p {
+    text-align: center;
+
+}
+
+.active {
+    background-color: blue;
+}
+
